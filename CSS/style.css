@@ -819,6 +819,9 @@ body{
     margin-left: 10px;
     margin-top: 10px;
 }
+.staf-img2{
+    background-image: url(../Imag/team1.jpg);
+}
 
 .staf-name{
     width: 50%;
